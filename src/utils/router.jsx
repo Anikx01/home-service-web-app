@@ -13,10 +13,18 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+        loader: async () => {
+          const servicesRes = await fetch("/service.json");
+          const servicesData = await servicesRes.json();
+          const feedBackRes = await fetch("/happyclients.json");
+          const feedBackData = await feedBackRes.json();
+          return { servicesData, feedBackData };
+        },
       },
       {
         path: "allservices",
         element: <AllServices></AllServices>,
+        loader: () => fetch("/service.json"),
       },
       {
         path: "profile",

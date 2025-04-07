@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "serviceName": "House Cleaning",
+    "image": "https://i.ibb.co/cSwwMrq3/house-cleaning.jpg",
+    "description": "Professional house cleaning service for a sparkling clean home.",
+    "cost": 80
+  },
+  {
+    "id": 2,
+    "serviceName": "Plumbing",
+    "image": "https://i.ibb.co/jZ6P25dx/plumbing.jpg",
+    "description": "Expert plumbing repairs and installations at your doorstep.",
+    "cost": 120
+  },
+  {
+    "id": 3,
+    "serviceName": "Electrical Service",
+    "image": "https://i.ibb.co/cXDFMGfk/electrical-service.jpg",
+    "description": "Safe and reliable electrical repairs and installations.",
+    "cost": 100
+  },
+  {
+    "id": 4,
+    "serviceName": "Appliance Repair",
+    "image": "https://i.ibb.co/LXk7TXxb/appliance-repair.jpg",
+    "description": "Fix your home appliances with our expert technicians.",
+    "cost": 200
+  },
+  {
+    "id": 5,
+    "serviceName": "Pet Care",
+    "image": "https://i.ibb.co/6RJnDyHp/pet-care.jpg",
+    "description": "Look after your pets in your absence.",
+    "cost": 60
+  },
+  {
+    "id": 6,
+    "serviceName": "Carpet Cleaning",
+    "image": "https://i.ibb.co/v6CX96NS/carpet-cleaning.jpg",
+    "description": "Deep cleaning for carpets to remove dirt and allergens.",
+    "cost": 70
+  }
+]

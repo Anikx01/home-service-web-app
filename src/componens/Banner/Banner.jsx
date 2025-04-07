@@ -1,21 +1,22 @@
 import React from "react";
-
+import bannerImg from "../../assets/Banner.jpg";
 const Banner = () => {
   return (
-    <div className="hero bg-base-200 min-h-screen">
+    <div className="hero bg-purple-400  rounded-lg my-8">
       <div className="hero-content flex-col lg:flex-row-reverse">
-        <img
-          src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
-          className="max-w-sm rounded-lg shadow-2xl"
-        />
+        <img src={bannerImg} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
-          <h1 className="text-5xl font-bold">Box Office News!</h1>
+          <h1 className="text-5xl font-bold">
+            Fast, Reliable Home Services at Your Fingertips!
+          </h1>
           <p className="py-6">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
+            From plumbing to painting, book trusted professionals anytime,
+            anywhere. Affordable rates, instant booking, and real-time
+            updates—making your life easier, one service at a time. Your comfort
+            is our priority. Try it now and experience hassle-free home
+            maintenance like never before!
           </p>
-          <button className="btn btn-primary">Get Started</button>
+          <button className="btn btn-primary">Booking Now</button>
         </div>
       </div>
     </div>

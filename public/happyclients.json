@@ -1,0 +1,32 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Emma Johnson",
+    "userImg": "https://i.ibb.co.com/992KvGdg/user.jpg",
+    "review": "Amazing service! The team was on time and left my home spotless. Highly recommended."
+  },
+  {
+    "reviewId": 2,
+    "name": "David Lee",
+    "userImg": "https://i.ibb.co.com/992KvGdg/user.jpg",
+    "review": "Very professional and polite staff.Punctual and well behaved. Fixed my issue in no time!"
+  },
+  {
+    "reviewId": 3,
+    "name": "Liv Morgan",
+    "userImg": "https://i.ibb.co.com/992KvGdg/user.jpg",
+    "review": "Affordable, efficient, and friendly. I’ll definitely use their service again.Wish them luck"
+  },
+  {
+    "reviewId": 4,
+    "name": "James Brown",
+    "userImg": "https://i.ibb.co.com/992KvGdg/user.jpg",
+    "review": "I booked carpet cleaning and I’m very happy with the result. Looks brand new!"
+  },
+  {
+    "reviewId": 5,
+    "name": "Olivia Wilson",
+    "userImg": "https://i.ibb.co.com/992KvGdg/user.jpg",
+    "review": "Pet care service was outstanding. My cat was well taken care of. Great job!"
+  }
+]
